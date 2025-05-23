@@ -1,3 +1,6 @@
+#Developed by ODAT project
+#please see https://odat.info
+#please see https://github.com/ODAT-Project
 import tkinter as tk
 from tkinter import ttk
 from tkinter import filedialog, messagebox
